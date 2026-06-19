@@ -1,0 +1,32 @@
+# Virtual Environment
+.llm/
+env/
+.llm/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
